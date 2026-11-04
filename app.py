@@ -113,7 +113,7 @@ st.markdown(
     .hero p {
         color: #e5f5e9;
         font-size: 16px;
-        line-height: 1.7;
+çi        line-height: 1.7;
         margin-bottom: 0;
     }
 
